@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  margin: 0px;
+  height: 50px;
+}
+
+#info{
+  color: white;
+  background-color: red;
+  width: 250px;
+  font-weight: bold;
+}
